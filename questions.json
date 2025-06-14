@@ -1,0 +1,122 @@
+{
+  "heading": "Two Event Probability",
+  "topics": [
+    {
+      "heading": "Two Event Probability",
+      "questions": [
+  {
+    "questionNo": 1,
+    "question": "A coin is tossed and a die is rolled. What is the probability of getting Tails and an even number?",
+    "options": [
+      { "text": "20%" },
+      { "text": "33.33%" },
+      { "text": "25%" },
+      { "text": "50%" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": "A 4-color spinner (Red, Blue, Green, Yellow) is spun twice. What is the probability that at least one spin lands on Green?",
+    "options": [
+      { "text": "0.50" },
+      { "text": "0.43" },
+      { "text": "0.25" },
+      { "text": "0.75" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": "Two fair dice are rolled. What is the probability that the sum is an even number?",
+    "options": [
+      { "text": "50%" },
+      { "text": "33.33%" },
+      { "text": "25%" },
+      { "text": "20%" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": "Two fair coins are tossed. What is the probability of getting at least one Head?",
+    "options": [
+      { "text": "0.25" },
+      { "text": "0.5" },
+      { "text": "0.75" },
+      { "text": "0.5" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": "Two fair dice are rolled. What is the probability that the product of the numbers is less than 10?",
+    "options": [
+      { "text": "10/36" },
+      { "text": "12/36" },
+      { "text": "17/36" },
+      { "text": "9/36" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 6,
+    "question": "A spinner has 3 equal sections: Red (R), Blue (B), and Green (G). The spinner is spun twice. What is the probability of getting Red both times?",
+    "options": [
+      { "text": "0.33" },
+      { "text": "0.17" },
+      { "text": "0.11" },
+      { "text": "0.22" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "question": "A jar has 3 red, 4 green, and 5 blue marbles. What is the probability of picking a green or blue marble?",
+    "options": [
+      { "text": "75%" },
+      { "text": "33.33%" },
+      { "text": "25%" },
+      { "text": "20%" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 8,
+    "question": "A die is rolled and a coin is tossed. What is the probability of getting a 1 and a Head?",
+    "options": [
+      { "text": "0.083" },
+      { "text": "0.167" },
+      { "text": "0.5" },
+      { "text": "0.028" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 9,
+    "question": "This spinner is spun, and a die is rolled. What is the probability of landing on blue and rolling a 2?",
+    "options": [
+      { "text": "1/4" },
+      { "text": "1/6" },
+      { "text": "1/14" },
+      { "text": "1/24" }
+    ],
+    "image": "./assests/images/question/1.png",
+    "answer": 3
+  },
+  {
+    "questionNo": 10,
+    "question": "Two fair dice are rolled. What is the probability that the first die shows a number smaller than the second die?",
+    "options": [
+      { "text": "15/36" },
+      { "text": "6/36" },
+      { "text": "10/36" },
+      { "text": "21/36" }
+    ],
+    "answer": 0
+  }
+]
+
+    }
+  ]
+}
